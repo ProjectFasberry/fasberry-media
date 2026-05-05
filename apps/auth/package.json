@@ -24,11 +24,11 @@
     "@repo/shared": "*",
     "@supabase/supabase-js": "2.45.6",
     "bcryptjs": "2.4.3",
-    "hono": "4.9.7",
+    "hono": "4.12.12",
     "hono-rate-limiter": "0.4.2",
     "ioredis": "5.6.1",
     "ky": "1.8.1",
-    "kysely": "0.28.6",
+    "kysely": "0.28.14",
     "pg": "8.13.1",
     "ua-parser-js": "2.0.3",
     "zod": "4.0.15"
